@@ -1,0 +1,3 @@
+/Users/eric/Desktop/数学建模/C++np/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/eric/Desktop/数学建模/C++np/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eric/Desktop/数学建模/C++np/cmake-build-debug/CMakeFiles/C__np.dir
